@@ -28,27 +28,27 @@
 		<link>
 			<name>src/carddeck/Card.java</name>
 			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/Prometheus3.2_Card/src/com/tasks3/carddeck/Card.java</locationURI>
+			<location>D:/workspace/Prometheus/src/carddeck/Card.java</location>
 		</link>
 		<link>
 			<name>src/carddeck/Desk.java</name>
 			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/Prometheus3.2_Card/src/com/tasks3/carddeck/Desk.java</locationURI>
+			<location>D:/workspace/Prometheus/src/carddeck/Desk.java</location>
 		</link>
 		<link>
 			<name>src/carddeck/Rank.java</name>
 			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/Prometheus3.2_Card/src/com/tasks3/carddeck/Rank.java</locationURI>
+			<location>D:/workspace/Prometheus/src/carddeck/Rank.java</location>
 		</link>
 		<link>
 			<name>src/carddeck/Suit.java</name>
 			<type>1</type>
-			<locationURI>PARENT-1-PROJECT_LOC/Prometheus3.2_Card/src/com/tasks3/carddeck/Suit.java</locationURI>
+			<location>D:/workspace/Prometheus/src/carddeck/Suit.java</location>
 		</link>
 		<link>
 			<name>src/linkedlist/LinkedList.java</name>
 			<type>1</type>
-			<locationURI>WORKSPACE_LOC/Prometheus3.1_Node/src/com/tasks3/linkedlist/LinkedList.java</locationURI>
+			<location>D:/workspace/Prometheus/src/linkedlist/LinkedList.java</location>
 		</link>
 	</linkedResources>
 </projectDescription>
