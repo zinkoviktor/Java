@@ -8,10 +8,6 @@ public class Game {
 		game.shuffle();
 		Card print = game.drawOne();
 		System.out.println(print.getSuit().getName()+" "+print.getRank().getName());
-		
-	
-		
-
 	}
 
 }

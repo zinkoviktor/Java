@@ -1,10 +1,7 @@
 package carddeck2;
 
-public class Suit {
-	public static final Suit HEARTS = new Suit("HEARTS");
-	public static final Suit DIAMONDS = new Suit("DIAMONDS");
-	public static final Suit CLUBS = new Suit("CLUBS");
-	public static final Suit SPADES = new Suit("SPADES");
+enum Suit {
+	HEARTS("HEARTS"),DIAMONDS("DIAMONDS"),CLUBS("CLUBS"),SPADES("SPADES");
 	
 	public static Suit[] values = { HEARTS, DIAMONDS, CLUBS, SPADES};
 	
