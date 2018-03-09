@@ -14,41 +14,4 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>src/carddeck</name>
-			<type>2</type>
-			<locationURI>virtual:/virtual</locationURI>
-		</link>
-		<link>
-			<name>src/linkedlist</name>
-			<type>2</type>
-			<locationURI>virtual:/virtual</locationURI>
-		</link>
-		<link>
-			<name>src/carddeck/Card.java</name>
-			<type>1</type>
-			<location>D:/workspace/Prometheus/src/carddeck/Card.java</location>
-		</link>
-		<link>
-			<name>src/carddeck/Desk.java</name>
-			<type>1</type>
-			<location>D:/workspace/Prometheus/src/carddeck/Desk.java</location>
-		</link>
-		<link>
-			<name>src/carddeck/Rank.java</name>
-			<type>1</type>
-			<location>D:/workspace/Prometheus/src/carddeck/Rank.java</location>
-		</link>
-		<link>
-			<name>src/carddeck/Suit.java</name>
-			<type>1</type>
-			<location>D:/workspace/Prometheus/src/carddeck/Suit.java</location>
-		</link>
-		<link>
-			<name>src/linkedlist/LinkedList.java</name>
-			<type>1</type>
-			<location>D:/workspace/Prometheus/src/linkedlist/LinkedList.java</location>
-		</link>
-	</linkedResources>
 </projectDescription>
